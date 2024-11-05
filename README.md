@@ -10,10 +10,11 @@ O **Squad Forge Hub** foi criado para oferecer um ambiente colaborativo e acess�
 
 Este repositório é dividido em duas categorias principais:
 
-1. **Análise de Dados**
-   - Conceitos fundamentais e habilidades práticas para análise de dados, com tópicos como Python para Análise, Estatística e Visualização de Dados.
-2. **Engenharia de Dados**
-   - Fundamentos de ETL, arquiteturas de dados, pipelines e Big Data, focando nas competências essenciais para construir e manter sistemas de dados escaláveis.
+1. **[Análise de Dados](analise-de-dados/)**  
+   Conceitos fundamentais e habilidades práticas para análise de dados, com tópicos como Python para Análise, Estatística e Visualização de Dados.
+
+2. **[Engenharia de Dados](engenharia-de-dados/)**  
+   Fundamentos de ETL, arquiteturas de dados, pipelines e Big Data, focando nas competências essenciais para construir e manter sistemas de dados escaláveis.
 
 ### Organização Interna
 
@@ -32,7 +33,7 @@ Para explorar o conteúdo:
    ```bash
    git clone https://github.com/squad-forge-hub/mentorias.git
    ```
-2. Navegue para o diretório desejado (`analise-de-dados` ou `engenharia-de-dados`) e explore o material disponível.
+2. Navegue para o diretório desejado ([analise-de-dados](analise-de-dados/) ou [engenharia-de-dados](engenharia-de-dados/)) e explore o material disponível.
 
 ## 🎯 Público-Alvo
 
@@ -67,7 +68,3 @@ Quer contribuir? Sinta-se à vontade para abrir uma *issue* com sugestões, corr
 ## 📬 Contato
 
 Para dúvidas ou feedback, entre em contato através do [LinkedIn](https://www.linkedin.com/in/tiagonavarro) ou abra uma *issue* neste repositório.
-
----
-
-Com o **Squad Forge Hub**, você estará preparado para forjar uma carreira sólida e impactante na área de dados!
