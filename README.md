@@ -30,7 +30,7 @@ Para explorar o conteúdo:
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/squad-forge-hub.git
+   git clone https://github.com/squad-forge-hub/mentorias.git
    ```
 2. Navegue para o diretório desejado (`analise-de-dados` ou `engenharia-de-dados`) e explore o material disponível.
 
